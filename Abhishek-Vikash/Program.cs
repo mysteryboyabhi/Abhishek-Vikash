@@ -10,6 +10,7 @@ namespace Abhishek_Vikash
         static void Main(string[] args)
         {
             Console.WriteLine("Abhishek");
+            Console.ReadKey();
         }
     }
 }
